@@ -15,7 +15,7 @@ class App < Sinatra::Base
   end 
   
   get '/favorite-song' do
-    "My favorite song is Lost at Sea by John Hart"
+    "My favorite song is Lost at Sea by Jon Hart"
   end 
   
 end
